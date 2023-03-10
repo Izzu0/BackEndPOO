@@ -1,0 +1,15 @@
+C:\Users\rafael.jesus\source\repos\List vs Array List Version\List vs Array List Version\obj\Debug\net6.0\List vs Array List Version.csproj.AssemblyReference.cache
+C:\Users\rafael.jesus\source\repos\List vs Array List Version\List vs Array List Version\obj\Debug\net6.0\List vs Array List Version.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafael.jesus\source\repos\List vs Array List Version\List vs Array List Version\obj\Debug\net6.0\List vs Array List Version.AssemblyInfoInputs.cache
+C:\Users\rafael.jesus\source\repos\List vs Array List Version\List vs Array List Version\obj\Debug\net6.0\List vs Array List Version.AssemblyInfo.cs
+C:\Users\rafael.jesus\source\repos\List vs Array List Version\List vs Array List Version\obj\Debug\net6.0\List vs Array List Version.csproj.CoreCompileInputs.cache
+C:\Users\rafael.jesus\source\repos\List vs Array List Version\List vs Array List Version\bin\Debug\net6.0\List vs Array List Version.exe
+C:\Users\rafael.jesus\source\repos\List vs Array List Version\List vs Array List Version\bin\Debug\net6.0\List vs Array List Version.deps.json
+C:\Users\rafael.jesus\source\repos\List vs Array List Version\List vs Array List Version\bin\Debug\net6.0\List vs Array List Version.runtimeconfig.json
+C:\Users\rafael.jesus\source\repos\List vs Array List Version\List vs Array List Version\bin\Debug\net6.0\List vs Array List Version.dll
+C:\Users\rafael.jesus\source\repos\List vs Array List Version\List vs Array List Version\bin\Debug\net6.0\List vs Array List Version.pdb
+C:\Users\rafael.jesus\source\repos\List vs Array List Version\List vs Array List Version\obj\Debug\net6.0\List vs Array List Version.dll
+C:\Users\rafael.jesus\source\repos\List vs Array List Version\List vs Array List Version\obj\Debug\net6.0\refint\List vs Array List Version.dll
+C:\Users\rafael.jesus\source\repos\List vs Array List Version\List vs Array List Version\obj\Debug\net6.0\List vs Array List Version.pdb
+C:\Users\rafael.jesus\source\repos\List vs Array List Version\List vs Array List Version\obj\Debug\net6.0\List vs Array List Version.genruntimeconfig.cache
+C:\Users\rafael.jesus\source\repos\List vs Array List Version\List vs Array List Version\obj\Debug\net6.0\ref\List vs Array List Version.dll
