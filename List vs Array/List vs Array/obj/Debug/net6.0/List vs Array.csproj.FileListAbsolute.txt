@@ -1,0 +1,15 @@
+C:\Users\rafael.jesus\source\repos\List vs Array\List vs Array\obj\Debug\net6.0\List vs Array.csproj.AssemblyReference.cache
+C:\Users\rafael.jesus\source\repos\List vs Array\List vs Array\obj\Debug\net6.0\List vs Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafael.jesus\source\repos\List vs Array\List vs Array\obj\Debug\net6.0\List vs Array.AssemblyInfoInputs.cache
+C:\Users\rafael.jesus\source\repos\List vs Array\List vs Array\obj\Debug\net6.0\List vs Array.AssemblyInfo.cs
+C:\Users\rafael.jesus\source\repos\List vs Array\List vs Array\obj\Debug\net6.0\List vs Array.csproj.CoreCompileInputs.cache
+C:\Users\rafael.jesus\source\repos\List vs Array\List vs Array\bin\Debug\net6.0\List vs Array.exe
+C:\Users\rafael.jesus\source\repos\List vs Array\List vs Array\bin\Debug\net6.0\List vs Array.deps.json
+C:\Users\rafael.jesus\source\repos\List vs Array\List vs Array\bin\Debug\net6.0\List vs Array.runtimeconfig.json
+C:\Users\rafael.jesus\source\repos\List vs Array\List vs Array\bin\Debug\net6.0\List vs Array.dll
+C:\Users\rafael.jesus\source\repos\List vs Array\List vs Array\bin\Debug\net6.0\List vs Array.pdb
+C:\Users\rafael.jesus\source\repos\List vs Array\List vs Array\obj\Debug\net6.0\List vs Array.dll
+C:\Users\rafael.jesus\source\repos\List vs Array\List vs Array\obj\Debug\net6.0\refint\List vs Array.dll
+C:\Users\rafael.jesus\source\repos\List vs Array\List vs Array\obj\Debug\net6.0\List vs Array.pdb
+C:\Users\rafael.jesus\source\repos\List vs Array\List vs Array\obj\Debug\net6.0\List vs Array.genruntimeconfig.cache
+C:\Users\rafael.jesus\source\repos\List vs Array\List vs Array\obj\Debug\net6.0\ref\List vs Array.dll
